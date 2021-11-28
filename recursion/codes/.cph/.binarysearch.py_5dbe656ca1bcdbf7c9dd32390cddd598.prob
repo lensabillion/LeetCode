@@ -1,0 +1,1 @@
+{"name":"Local: binarysearch","url":"e:\\LeetCode\\Recursion\\codes\\binarysearch.py","tests":[{"id":1637821504311,"input":"0 1 2 3 4 5 6 7 8 9 10","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\LeetCode\\Recursion\\codes\\binarysearch.py","group":"local","local":true}
